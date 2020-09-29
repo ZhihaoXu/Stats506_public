@@ -16,5 +16,5 @@ Some basic opeartion in R
 
 4. Week4-6  
 [Repo for Yingyi yang](https://github.com/YingyiYang/Stats506_public)  
-[Repo for EunSeon Ahn](https://github.com/EunseonAhn/Stats506_public)
+[Repo for EunSeon Ahn](https://github.com/EunseonAhn/Stats506_public)  
 [Repo for Dongyang Zhao](https://github.com/zhaodyleo/STATS506_F20)
