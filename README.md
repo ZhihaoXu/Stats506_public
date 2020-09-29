@@ -18,3 +18,7 @@ Some basic opeartion in R
 [Repo for Yingyi yang](https://github.com/YingyiYang/Stats506_public)  
 [Repo for EunSeon Ahn](https://github.com/EunseonAhn/Stats506_public)  
 [Repo for Dongyang Zhao](https://github.com/zhaodyleo/STATS506_F20)
+
+Here is the plot for week4 q1 and q2.
+![q1](./week4/w4_p2_q1_plot.png)
+![q2](./week4/w4_p2_q2_plot.png)    	
