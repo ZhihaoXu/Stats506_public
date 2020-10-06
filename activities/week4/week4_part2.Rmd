@@ -1,6 +1,6 @@
 ---
 title: "Week 4 Activity, Part 2"
-author: 'Group X: A, B, C, D'
+author: 'Group 5: Zhihao Xu, Yingyi Yang, Dongyang Zhao, EunSeon Ahn'
 date: "9/29/2020"
 output: html_document
 ---
