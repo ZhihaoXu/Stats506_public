@@ -20,8 +20,8 @@ Some basic opeartion in R
 [Repo for Dongyang Zhao](https://github.com/zhaodyleo/STATS506_F20)
 
 Here is the plot for week4 q1 and q2.
-<img src="./activities/week4/w4_p2_q1_plot.png" width="700px" height="500px" alt="q    1" align=left>  
-<img src="./activities/week4/w4_p2_q2_plot.png" width="600px" height="400px" alt="q2" align=left>  
+<img src="./activities/week4/w4_p2_q1_plot.png" width="700px" height="500px" alt="q    1" align=left><br>  
+<img src="./activities/week4/w4_p2_q2_plot.png" width="600px" height="400px" alt="q2" align=left><br>  
 
 5. Week5
 Already finished in the Week4, the code is in [Week4](https://github.com/ZhihaoXu/Stats506_public/tree/master/activities/week4)
