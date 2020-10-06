@@ -21,5 +21,4 @@ Some basic opeartion in R
 
 Here is the plot for week4 q1 and q2.
 ![q1](./activities/week4/w4_p2_q1_plot.png)
-<img src="./activities/week4/w4_p2_q2_plot.png" width="300px" height="300px" alt="q2" align=left>
-![q2](./activities/week4/w4_p2_q2_plot.png)
+<img src="./activities/week4/w4_p2_q2_plot.png" width="800px" height="600px" alt="q2" align=left>
