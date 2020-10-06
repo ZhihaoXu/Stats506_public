@@ -55,6 +55,9 @@ p1 = plot_data %>%
   geom_point(aes(color = rurality), position = position_dodge(0.3)) +
   geom_errorbarh( aes(xmin = lwr, xmax = upr, color=rurality), 
                   position = position_dodge(0.3)) + 
+  scale_color_manual(name="rurality",
+                     labels = c("rural", "urban"),
+                     values = c("#7F1E0E", "#001C85"))+
   xlab('Proportion of homes with internet access') +
   theme_bw()
 
