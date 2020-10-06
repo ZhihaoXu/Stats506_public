@@ -6,11 +6,11 @@
 
 ## Activity
 
-### Week 1 \
+### Week 1 
 Some basic practice about Linux
-### Week 2 \
+### Week 2 
 Some basic opeartion in R
-### Week 3 \
+### Week 3 
 [Repo for Zhihao](https://github.com/skorsu/Stats506_public) \
 [Repo for Suppapat](https://github.com/skorsu/Stats506_public)
 
