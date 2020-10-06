@@ -21,7 +21,7 @@ Some basic opeartion in R
 
 Here is the plot for week4 q1 and q2.
 <div align="left"><img src="./activities/week4/w4_p2_q1_plot.png" width="700px" height="500px" alt="q    1" align=left></div>  
-<div align="left"><img src="./activities/week4/w4_p2_q2_plot.png" width="600px" height="400px" alt="q2"></div>  
+<div align="left"><img src="./activities/week4/w4_p2_q2_plot.png" width="700px" height="500px" alt="q2"></div>  
 
 ### Week5
 Already finished in the Week4, the code is in [Week4](https://github.com/ZhihaoXu/Stats506_public/tree/master/activities/week4)
