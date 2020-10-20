@@ -8,11 +8,11 @@
 #   ?view=microdata
 #
 # Updated: October 20, 2020
-# Author: James Henderson
+# Author: Zhihao Xu
 # 79: -------------------------------------------------------------------------
  
 # run tests at the end?: ------------------------------------------------------
-TEST = FALSE
+TEST = TRUE
 
 # libraries: ------------------------------------------------------------------
 library(tidyverse)
@@ -120,11 +120,7 @@ add_groups = function(df, group = NULL) {
   #   df - an object inheriting from the data.frame class, commonly a tibble
   #   group - (optional, defaults to NULL) a character vector of column
   #    names in df to form groups by.
-
-  # <task 3> 
-  
-  df = df %>%
-    group_by(across({{group}}))
+  df = group_by(df, across({{group}}))
   return(df)
 }
 
