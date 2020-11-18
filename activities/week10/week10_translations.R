@@ -162,11 +162,11 @@ batting_tbl %>%
   filter(
     yearID > 1999
   ) %>%
-  transmute(
+  summarise(
     HR = sum(HR)
   ) %>%
   filter(HR>400) %>%
-  order_by(-HR)
+  arrange(desc(HR))
 
 
 
